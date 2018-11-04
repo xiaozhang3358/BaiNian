@@ -1,0 +1,97 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1541156276000" stop="1541156328815">
+  <name>test_login</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1541156276000" status="passed" stop="1541156328815">
+      <name>TestLogin.test_login[18610453007-123456-itheima-None]</name>
+      <attachments>
+        <attachment source="d16fae2e-fc10-4e38-87ff-5e761ffde8df-attachment.txt" title="步骤描述：" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="13832-MainThread"/>
+        <label name="host" value="DESKTOP-5G2TS04"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1541156276003" status="passed" stop="1541156301003">
+          <name>开始初始化操作</name>
+          <title>开始初始化操作</title>
+          <attachments>
+            <attachment source="9f740a91-af66-4b58-bd42-f61f7c0ea20d-attachment.txt" title="步骤描述：" type="text/plain"/>
+            <attachment source="cb942455-1d96-4c02-9867-57765d1057be-attachment.txt" title="步骤描述：" type="text/plain"/>
+          </attachments>
+          <steps>
+            <step start="1541156293721" status="passed" stop="1541156298743">
+              <name>点击我</name>
+              <title>点击我</title>
+              <attachments/>
+              <steps/>
+            </step>
+            <step start="1541156298743" status="passed" stop="1541156301003">
+              <name>点击以有帐号，去登录</name>
+              <title>点击以有帐号，去登录</title>
+              <attachments/>
+              <steps/>
+            </step>
+          </steps>
+        </step>
+        <step start="1541156301005" status="passed" stop="1541156303108">
+          <name>输入用户名</name>
+          <title>输入用户名</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1541156303108" status="passed" stop="1541156304135">
+          <name>输入密码</name>
+          <title>输入密码</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1541156304135" status="passed" stop="1541156304664">
+          <name>点击登录</name>
+          <title>点击登录</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1541156307863" status="passed" stop="1541156307997">
+          <name>点击设置</name>
+          <title>点击设置</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1541156307997" status="passed" stop="1541156323800">
+          <name>滑动，从消息推送--&gt;修改密码</name>
+          <title>滑动，从消息推送--&gt;修改密码</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1541156323800" status="passed" stop="1541156324388">
+          <name>点击退出按钮</name>
+          <title>点击退出按钮</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1541156324388" status="passed" stop="1541156325978">
+          <name>确认退出</name>
+          <title>确认退出</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1541156325978" status="passed" stop="1541156326774">
+          <name>点击我</name>
+          <title>点击我</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1541156326774" status="passed" stop="1541156328815">
+          <name>点击以有帐号，去登录</name>
+          <title>点击以有帐号，去登录</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

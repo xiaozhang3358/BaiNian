@@ -1,0 +1,32 @@
+BN_login_test001:
+  username: "18610453007"
+  pwd: "123456"
+  nick_text: "itheima"
+#BN_login_test002:
+#  username: "itheima"
+#  pwd: "123456"
+#  nick_text: "itheima"
+#BN_login_test003:
+#  username: " 18610453007 "
+#  pwd: "123456"
+#  nick_text: "itheima"
+#BN_login_test004:
+#  username: " itheima "
+#  pwd: "123456"
+#  nick_text: "itheima"
+#BN_login_test005:
+#  username: "186104530071"
+#  pwd: "123456"
+#  expect_toast: "此用户不存在"
+#BN_login_test006:
+#  username: "18610453007"
+#  pwd: "1234563"
+#  expect_toast: "登录密码错误"
+#BN_login_test007:
+#  username: "itheimait"
+#  pwd: "123456"
+#  expect_toast: "此用户不存在"
+#BN_login_test008:
+#  username: "18610453007"
+#  pwd: "123456888"
+#  expect_toast: "登录密码错误"
